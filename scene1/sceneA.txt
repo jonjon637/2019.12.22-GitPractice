@@ -2,4 +2,6 @@ Yo yo yo this is the first
 
 so after my first add on the staging file now im just gonna add this change; now we also go forward and add it to staging area
 
-2nd change in regards to this stuff
+2nd change in regards to this stuff; but didnt add it to the staging area
+
+3rd change after putting this in staging
