@@ -7,3 +7,5 @@ so after my first add on the staging file now im just gonna add this change; now
 3rd change after putting this in staging
 
 4th change now and see if this becomes yellow
+
+5th change included after adding to stage and having 0 diffs from adding on to stage but after putting in the 4th change
