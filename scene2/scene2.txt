@@ -1,11 +1,3 @@
 So this is my changes after finishing final commit from master branch
 
-<<<<<<< HEAD
-first attempt in creating a conflict.. ill mess with happyending first and then ill mess with it on master branch
-
-now here is the merge conflcik becuase i am changing this on the mster branch now and i will commit it
-
-this will definitely cause an issue
-=======
 ummm i forgot wha ti did in regards to this so ill do again. here is my changes to happy ending branch and ill save it in order to create merge conflict
->>>>>>> happyending
